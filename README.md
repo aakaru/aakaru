@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aakaru
-- 👀 I’m interested in Web Developement and Programming with different languages
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on Large Scale projects related to web devolepment and mini projects related to C programming
+- 👀 I’m interested in Web Developement and Programming in C, C++, Golang
+- 🌱 I’m currently working on Competitive Programming
+- 💞️ I’m looking to collaborate on Large Scale projects related to web devolepment
 - 📫 Feel free to reach out via email: aakarukaushik@gmail.com
 
 <!---
