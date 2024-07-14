@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aakaru
-- 👀 I’m interested in Web Developement and Programming in C, C++, Golang
-- 🌱 I’m currently working on Competitive Programming
-- 💞️ I’m looking to collaborate on Large Scale projects related to web devolepment
+- 👀 I’m interested in AI/ML using Golang
+- 🌱 I’m currently working on expertising Go Programming Language
+- 💞️ I’m looking to collaborate on Large Scale projects that Implement Go in backend
 - 📫 Feel free to reach out via email: aakarukaushik@gmail.com
 
 <!---
