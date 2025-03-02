@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @aakaru<br>👀 I’m interested in AI/ML using Golang<br>🌱 I’m currently working on expertising Go Programming Language<br>💞 I’m looking to collaborate on Large Scale projects that Implement Go in backend<br>📫 Feel free to reach out via email: aakarukaushik@gmail.com
+👋 Hi, I’m @aakaru<br>👀 I’m interested in DevOps<br>🌱 I’m currently working on expertising Go Programming Language<br>💞 I’m looking to collaborate on Large Scale projects that Implements Go and frameworks<br>📫 Feel free to reach out via email: aakarukaushik@gmail.com
 
 
 ## 🌐 Socials:
